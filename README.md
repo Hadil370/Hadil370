@@ -1,4 +1,4 @@
-G3 mebarki-redjati
+G3 mebarki-radjati
 
 <!---
 Hadil370/Hadil370 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
